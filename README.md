@@ -63,8 +63,7 @@ Raport zawiera wizualizacje:
 
 ![image](https://github.com/user-attachments/assets/650981da-ac9a-42d1-8d14-0ff9a4372bbb)
 
-![image](https://github.com/user-attachments/assets/c7c4cec8-cf5c-4c64-bfaf-d4857b5bae16)
-
+![image](https://github.com/user-attachments/assets/e455943a-96be-4f74-b798-f9a5ee2ee95c)
 
 ---
 
