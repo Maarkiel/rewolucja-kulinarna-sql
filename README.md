@@ -57,6 +57,17 @@ Raport zawiera wizualizacje:
 
 ---
 
+## 🛠 Screeny z wizualizacji PowerBI
+
+![image](https://github.com/user-attachments/assets/4af70715-4c18-455d-87f8-e8ff12732a47)
+
+![image](https://github.com/user-attachments/assets/650981da-ac9a-42d1-8d14-0ff9a4372bbb)
+
+![image](https://github.com/user-attachments/assets/c7c4cec8-cf5c-4c64-bfaf-d4857b5bae16)
+
+
+---
+
 ## 🛠 Autor
 
 Projekt utworzony w ramach portfolio.
